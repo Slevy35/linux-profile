@@ -1,0 +1,5 @@
+git
+python
+docker-ce
+docker-ce-cli
+containerd.io
